@@ -1,4 +1,4 @@
-## Trabalho da faculdade de programação funcional com Python.
+## University project about functional programming using Python.
 
 
 
